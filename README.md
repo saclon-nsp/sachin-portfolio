@@ -4,7 +4,6 @@
 
 Live Preview
 https://saclon-nsp.github.io/sachin-portfolio/
-```
 
 
 ```bash
