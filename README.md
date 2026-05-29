@@ -2,7 +2,7 @@
 
 ## Run commands
 
-Live Preview
+Live Preview:
 https://saclon-nsp.github.io/sachin-portfolio/
 
 
