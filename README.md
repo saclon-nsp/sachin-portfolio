@@ -3,7 +3,6 @@
 ## Run commands
 
 Live Preview
-```bash
 https://saclon-nsp.github.io/sachin-portfolio/
 ```
 
